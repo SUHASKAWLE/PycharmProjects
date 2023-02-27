@@ -202,5 +202,4 @@ if a == retrieve and b == diet and c == Vaishnavi:
 
 if a == retrieve and b == diet and c == Vaibhav:
     with open("Vaibhav Diet.txt", "rt") as f8:
->>>>>>> 0e54dd0e67c09eccf698fc7be2d0d33abecc3787
         print(f8.read())
